@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+div.verticalhorizontal {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    height: 100%;
+    width: 100%;
+}
+img {
+    width: 50%;
+    height: auto;
+}
+h1 {
+    color: white;
+}
